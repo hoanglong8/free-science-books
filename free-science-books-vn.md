@@ -1,10 +1,11 @@
-# Sách khoa học miễn phí
+# Sách khoa học miễn phí trên GitHub
+Lưu ý: Sách được phân loại theo thứ tự của [thư viện Quốc hội](http://www.loc.gov/catdir/cpso/lcco/)
 
 ## TRIẾT HỌC, TÂM LÝ, TÔN GIÁO
 
 ### Tâm lý học
-- Khoa học thần kinh nhận thức tính toán - Randall C. O'Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
-- ePsych - Gary L. Bradshaw
+- [Khoa học thần kinh nhận thức tính toán](https://github.com/CompCogNeuro/ed4) - Randall C. O'Reilly Yuko Munakata Michael J. Frank Thomas E. Hazy
+- [ePsych](https://epsych.msstate.edu/) - Gary L. Bradshaw
 - Các trường hợp nhận thức - Matthew J. Crump
 - Mạng nơ-ron - Giới thiệu có hệ thống - Raul Rojas
 - Động lực học nơ-ron: Từ các nơ-ron đơn lẻ đến các mạng lưới và mô hình nhận thức - Wulfram Gerstner, Werner M. Kistler, Richard Naud và Liam Paninski
@@ -46,21 +47,21 @@
 - Các yếu tố của học thống kê - Trevor Hastie, Robert Tibshirani, Jerome Friedman (PDF)
 - Bách khoa toàn thư Toán học - Springer
 - Lý thuyết đồ thị - Iványi Antal Miklós
-Chúng ta đã đi từ đó đến đây như thế nào: Một kho phân tích thực tế - Robert Rogers và Eugene C. Boman (HTML, PDF)
-Giới thiệu về Xác suất - Charles M. Grinstead và J. Laurie Snell
-Giới thiệu về Xác suất và Thống kê Mùa xuân 2014 - Jeremy Orloff, Jonathan Bloom
-Giới thiệu về Bằng chứng - Jim Hefferon
-Giới thiệu về Tư duy Thống kê - Michael Lavine
-Ghi chú bài giảng về Đại số tuyến tính - Tiến sĩ P. Shunmugaraj, IIT Kanpur (PDF)
-Đại số tuyến tính - Tiến sĩ Arbind K Lal, IIT Kanpur (PDF)
-Đại số tuyến tính - David Cherney, Tom Denton, Rohit Thomas và Andrew Waldron (PDF)
-Đại số tuyến tính của Jim Hefferon - Jim Hefferon
-Ghi chú về Đại số tuyến tính - David A. Santos (PDF)
-Logic Toán học - Giới thiệu (PDF)
-Toán học cho Khoa học máy tính (2017) - Eric Lehman và cộng sự (PDF)
-Toán học cho máy học - Marc Peter Deisenroth, A. Aldo Faisal và Cheng Soon Ong (PDF)
-Toán học cho Vật lý - Michael Stone và Paul Goldbart (PDF)
-Công thức Toán học - JCA Wevers (PDF)
+- Chúng ta đã đi từ đó đến đây như thế nào: Một kho phân tích thực tế - Robert Rogers và Eugene C. Boman (HTML, PDF)
+- Giới thiệu về Xác suất - Charles M. Grinstead và J. Laurie Snell
+- Giới thiệu về Xác suất và Thống kê Mùa xuân 2014 - Jeremy Orloff, Jonathan Bloom
+- Giới thiệu về Bằng chứng - Jim Hefferon
+- Giới thiệu về Tư duy Thống kê - Michael Lavine
+- Ghi chú bài giảng về Đại số tuyến tính - Tiến sĩ P. Shunmugaraj, IIT Kanpur (PDF)
+- Đại số tuyến tính - Tiến sĩ Arbind K Lal, IIT Kanpur (PDF)
+- Đại số tuyến tính - David Cherney, Tom Denton, Rohit Thomas và Andrew Waldron (PDF)
+- Đại số tuyến tính của Jim Hefferon - Jim Hefferon
+- Ghi chú về Đại số tuyến tính - David A. Santos (PDF)
+- Logic Toán học - Giới thiệu (PDF)
+- Toán học cho Khoa học máy tính (2017) - Eric Lehman và cộng sự (PDF)
+- Toán học cho máy học - Marc Peter Deisenroth, A. Aldo Faisal và Cheng Soon Ong (PDF)
+- Toán học cho Vật lý - Michael Stone và Paul Goldbart (PDF)
+- Công thức Toán học - JCA Wevers (PDF)
 Hình học cơ bản hiện đại - B. Grünbaum (PDF)
 Thống kê vô hại nhất - Rachel L. Webb (PDF)
 Lý thuyết số - Holden Lee MIT
